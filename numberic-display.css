@@ -10,7 +10,7 @@ body{
 }
 .piece{
     background-color: transparent;
-    color: #e33;
+    color: #f33;
     box-sizing: border-box;
     position: absolute;
     display: inline-block;
